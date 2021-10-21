@@ -1,5 +1,18 @@
 ### Elementary Cellular Automaton
 
+### Setup
+
+ Rules are read from ruleSet.txt. Change/save the text to what rules you want to be read in. 
+ 
+    - c to change colour.
+    - m for mono colour.
+    - w for wide.
+    - q to quit.
+
+**to build** in terminal -> gcc -framework OpenGL -framework GLUT -o oneauto oneauto.c
+
+**to run** -> ./oneauto
+
 ### Code
 
 ```c
