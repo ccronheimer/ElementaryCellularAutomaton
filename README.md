@@ -16,6 +16,10 @@
 ### Screenshots
 <img src="./assets/ex1.png" alt="alt text" width="400"/>
 <img src="./assets/ex1Coloured.png" alt="alt text" width="400"/>
+<img src="./assets/ex2.png" alt="alt text" width="400"/>
+<img src="./assets/ex2Coloured.png" alt="alt text" width="400"/>
+<img src="./assets/ex3.png" alt="alt text" width="400"/>
+<img src="./assets/ex3Coloured.png" alt="alt text" width="400"/>
 
 ### Code
 
