@@ -15,7 +15,7 @@
 
 ### Screenshots
 <img src="./assets/ex1.png" alt="alt text" width="400"/>
-<img src="./assets/ex1coloured.png" alt="alt text" width="400"/>
+<img src="./assets/ex1Coloured.png" alt="alt text" width="400"/>
 
 ### Code
 
