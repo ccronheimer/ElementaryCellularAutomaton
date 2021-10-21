@@ -9,9 +9,9 @@
     - w for wide.
     - q to quit.
 
-**to build ->** gcc -framework OpenGL -framework GLUT -o oneauto oneauto.c
+**to build ->** ``gcc -framework OpenGL -framework GLUT -o oneauto oneauto.c``
 
-**to run->** ./oneauto
+**to run->** ``./oneauto``
 
 ### Screenshots
 <img src="./assets/ex1.png" alt="alt text" width="400"/>
