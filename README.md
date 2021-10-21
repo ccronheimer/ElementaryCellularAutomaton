@@ -14,7 +14,9 @@
 **to run->** ./oneauto
 
 ### Screenshots
-![image info](./assets/ex1.png)
+<img src="./assets/ex1.png" alt="alt text" width="400"/>
+<img src="./assets/ex2.png" alt="alt text" width="400"/>
+
 ### Code
 
 ```c
