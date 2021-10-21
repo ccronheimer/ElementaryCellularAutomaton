@@ -14,7 +14,7 @@
 **to run->** ./oneauto
 
 ### Screenshots
-![image info](/assets/image.png)
+![image info](./assets/ex1.png)
 ### Code
 
 ```c
