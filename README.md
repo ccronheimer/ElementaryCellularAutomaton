@@ -1,16 +1,4 @@
-Cameron Cronheimer (6517080) cc18fi@brocku.ca
-
-2. Screen Saver
-
-    - I chose to try to replicate the bouncing DVD logo that changes random direction
-    when the square hits hits the wall.
-    - the square moves very glitchy.
-    - esc to exit.
-
-    to build in terminal -> gcc -framework OpenGL -framework GLUT -o screensaver screensaver.c
-    to run -> ./screensaver
-
-3. Cellular Automata
+Elementary Cellular Automaton
 
     - I read the files ruleSet.txt and ruleSetWide.txt in that contain the rules.
     - c to change colour.
